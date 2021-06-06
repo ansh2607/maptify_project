@@ -4,7 +4,7 @@ This project is based on [Jonas Schmedtmann's](https://github.com/jonasschmedtma
 
 # Live demo
 
-The project is live on [Maptify](ansh-maptify.netlify.app)
+The project is live on [Maptify](https://ansh-maptify.netlify.app)
 
 # About the project
 
